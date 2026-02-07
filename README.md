@@ -1,4 +1,4 @@
-# CELLA_AI
+# CELLA_AI_2.0
 ## RAG Based Document Chatbot 🤖📚
 
 A modern, AI-powered document chatbot that lets you upload documents and chat with them using advanced RAG (Retrieval-Augmented Generation) technology. Built with React and FastAPI.
